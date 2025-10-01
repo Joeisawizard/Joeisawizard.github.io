@@ -5,4 +5,6 @@ body {
 h1 {
     color:plum;
     text-align: center;
+} .about {
+    color: blueviolet;
 }
