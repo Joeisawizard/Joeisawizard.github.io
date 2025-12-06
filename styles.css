@@ -1,6 +1,7 @@
 body {
     background: black;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 h1 {
     color:plum;
@@ -8,13 +9,17 @@ h1 {
 }
 .about {
     color: lightcoral;
+    text-align: center;
 }
 .skills {
     color:lightgreen;
+    text-align: center;
 }
 .projects {
     color:lightseagreen;
+    text-align: center;
 }
 .contact {
     color: chartreuse;
+    text-align: center;
 }
