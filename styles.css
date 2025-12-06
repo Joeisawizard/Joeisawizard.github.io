@@ -24,5 +24,9 @@ h1 {
     text-align: center;
 }
 .block-indent {
-  margin-left: 40px; /* Indents the whole element by 40px */
+  text-indent: 40px;
+}
+.section-title {
+    font-size: large;
+    font-weight: bold;
 }
