@@ -23,3 +23,6 @@ h1 {
     color: chartreuse;
     text-align: center;
 }
+.block-indent {
+  margin-left: 40px; /* Indents the whole element by 40px */
+}
