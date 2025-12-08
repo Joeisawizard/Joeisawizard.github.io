@@ -5,20 +5,19 @@ body {
 }
 h1 {
     color:black;
-    text-align: center;
 }
 .about {
     color: black;
     text-align: center;
-    background-color: lightslategray;
+    background-color: rgb(219, 164, 255);
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
     border-radius: 25%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 .skills {
     color:black;
-    text-align: center;
 }
 .projects {
     color:black;
@@ -27,14 +26,14 @@ h1 {
     display: flex;
     flex-wrap: wrap;
 }
+.project {
+    background-color: rgb(219, 164, 255);
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    border-radius: 25%;
+}
 .contact {
     color: black;
     text-align: center;
-}
-.block-indent {
-  text-indent: 40px;
-}
-.section-title {
-    font-size: large;
-    font-weight: bold;
 }
