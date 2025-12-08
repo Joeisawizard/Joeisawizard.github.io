@@ -4,23 +4,23 @@ body {
     text-align: center;
 }
 h1 {
-    color:plum;
+    color:black;
     text-align: center;
 }
 .about {
-    color: lightcoral;
+    color: black;
     text-align: center;
 }
 .skills {
-    color:lightgreen;
+    color:black;
     text-align: center;
 }
 .projects {
-    color:lightseagreen;
+    color:black;
     text-align: center;
 }
 .contact {
-    color: chartreuse;
+    color: black;
     text-align: center;
 }
 .block-indent {
