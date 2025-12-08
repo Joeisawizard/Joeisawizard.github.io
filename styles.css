@@ -40,6 +40,8 @@ h1 {
 .project img {
     text-align: center;
     border: darkorchid;
+    display: block;
+    width: 400px
 }
 .project h3 {
     margin-left: 30px;
