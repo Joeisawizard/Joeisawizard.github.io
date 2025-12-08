@@ -7,7 +7,6 @@ h1 {
 }
 .about {
     color: black;
-    text-align: center;
     background-color: rgb(219, 164, 255);
     width: 30%;
     margin: 10px;
@@ -30,5 +29,4 @@ h1 {
 }
 .contact {
     color: black;
-    text-align: center;
 }
