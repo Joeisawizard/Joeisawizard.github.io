@@ -10,6 +10,11 @@ h1 {
 .about {
     color: black;
     text-align: center;
+    background-color: lightslategray;
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    border-radius: 25%;
 }
 .skills {
     color:black;
@@ -18,6 +23,9 @@ h1 {
 .projects {
     color:black;
     text-align: center;
+    background-color: lightgray;
+    display: flex;
+    flex-wrap: wrap;
 }
 .contact {
     color: black;
