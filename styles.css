@@ -20,9 +20,6 @@ h1 {
     color:black;
 }
 .projects {
-    color:black;
-    text-align: center;
-    background-color: lightgray;
     display: flex;
     flex-wrap: wrap;
 }
